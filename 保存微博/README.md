@@ -4,11 +4,14 @@
 
 图 1：在 Obsidian 中浏览保存的微博图文
 
+
 图 2：比较复杂的微博样式和保存后的 md 文档、 Obsidian 中的效果
+![图2](https://user-images.githubusercontent.com/23517447/227451752-1b10ee45-09c1-456b-afb8-8af561fecacb.jpg)
+
 
 图 3：为抓取时的内容预览
+![图3](https://user-images.githubusercontent.com/23517447/227451781-65d93045-22ee-4919-a7bd-4ff579e5cf71.jpg)
 
-图 4-图 6：快捷指令 1-3
 
 ----
 
