@@ -1,6 +1,6 @@
-🌟制作了一个 B 站稍候看快捷指令，效果如图1所示
+# 🌟制作了一个 B 站稍候看快捷指令，效果如图1所示
 
-这里使用了 [Hum](https://utgd.net/article/20119) 在 [UNTAG Premium 第十九期](https://utgd.net/article/20116)介绍的技巧，将视频封面和 md 文档保存到 obsidian 库中，随时在 iPhone 上查看稍候看的视频。芜湖~起飞🛫
+### 这里使用了 [Hum](https://utgd.net/article/20119) 在 [UNTAG Premium 第十九期](https://utgd.net/article/20116)介绍的技巧，将视频封面和 md 文档保存到 obsidian 库中，随时在 iPhone 上查看稍候看的视频。芜湖~起飞🛫
 
 ![效果预览](https://github.com/erpwibw/Shortcuts-gallery/blob/main/Bilibili%20%E7%A8%8D%E5%80%99%E7%9C%8B/bilibili.gif)
 
