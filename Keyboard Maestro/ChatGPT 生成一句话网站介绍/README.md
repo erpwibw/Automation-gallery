@@ -23,6 +23,3 @@ Keyboard Maestro 运行 ChatGPT API 有多种方法，通过快捷指令是最�
 - 选中网址，按快捷键运行 Macro，返回ChatGPT生成的介绍
 - 在 Keyboard Maestro 中修改 prompts，进行自定义
 
-
-
-感兴趣的朋友可以在 [Github](https://github.com/erpwibw/Automation-gallery/tree/main/Keyboard%20Maestro/ChatGPT%20%E7%94%9F%E6%88%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D) 关注后续需要的更新与修复
