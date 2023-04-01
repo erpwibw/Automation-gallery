@@ -4,7 +4,7 @@
 
 图 1：在 Obsidian 中浏览保存的微博图文
 
-![图1](https://github.com/erpwibw/Shortcuts-gallery/blob/main/%E4%BF%9D%E5%AD%98%E5%BE%AE%E5%8D%9A/obsidian_preview.gif)
+![图1](https://github.com/erpwibw/Automation-gallery/blob/main/Shortcuts%20%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/%E4%BF%9D%E5%AD%98%E5%BE%AE%E5%8D%9A/obsidian_preview.gif)
 
 图 2：比较复杂的微博样式和保存后的 md 文档、 Obsidian 中的效果
 ![图2](https://user-images.githubusercontent.com/23517447/227451752-1b10ee45-09c1-456b-afb8-8af561fecacb.jpg)
