@@ -25,4 +25,4 @@ Keyboard Maestro 运行 ChatGPT API 有多种方法，通过快捷指令是最�
 
 
 
-感兴趣的朋友可以在 [Github](https://github.com/erpwibw/Shortcuts-gallery/blob/main/Bilibili%20%E7%A8%8D%E5%80%99%E7%9C%8B/README.md) 关注后续需要的更新与修复
+感兴趣的朋友可以在 [Github](https://github.com/erpwibw/Automation-gallery/tree/main/Keyboard%20Maestro/ChatGPT%20%E7%94%9F%E6%88%90%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%BD%91%E7%AB%99%E4%BB%8B%E7%BB%8D) 关注后续需要的更新与修复
