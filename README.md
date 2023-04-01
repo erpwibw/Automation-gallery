@@ -1,4 +1,4 @@
-# Shortcuts-gallery
-分享制作的 shortcuts 快捷指令
+# Automation-gallery
+分享制作的 macOS/iOS 自动化流程
 
-每个文件夹包含一个快捷指令，以及说明文档和效果展示
+每个文件夹包含自动化流程，以及说明文档和效果展示
