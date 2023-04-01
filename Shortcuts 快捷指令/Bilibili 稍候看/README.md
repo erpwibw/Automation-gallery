@@ -2,7 +2,7 @@
 
 ### 这里使用了 [Hum](https://utgd.net/article/20119) 在 [UNTAG Premium 第十九期](https://utgd.net/article/20116)介绍的技巧，将视频封面和 md 文档保存到 obsidian 库中，随时在 iPhone 上查看稍候看的视频。芜湖~起飞🛫
 
-![效果预览](https://github.com/erpwibw/Shortcuts-gallery/blob/main/Bilibili%20%E7%A8%8D%E5%80%99%E7%9C%8B/bilibili.gif)
+![效果预览](https://github.com/erpwibw/Automation-gallery/blob/main/Shortcuts%20%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/Bilibili%20%E7%A8%8D%E5%80%99%E7%9C%8B/bilibili.gif)
 
 快捷指令链接：https://www.icloud.com/shortcuts/f1203f0937564a9ca90bad1c6941688e
 
