@@ -87,7 +87,7 @@ let book = {
   publicationYear: infoJson["出版年"],
   publisher: infoJson["出版社"],
   link: link,
-  csvRow: `${bookTitle},${rating},${reviewCount},${infoJson["页数"]},状态,种类,${bookDescription},${hotShortComments},${infoJson["ISBN"]},${infoJson["作者"]},${infoJson["出版年"]},${infoJson["出版社"]},${link}`,
+  csvRow: `"${bookTitle}","${rating}","${reviewCount}","${infoJson["页数"]}","状态","种类","${bookDescription}","${hotShortComments}","${infoJson["ISBN"]}","${infoJson["作者"]}","${infoJson["出版年"]}","${infoJson["出版社"]}","${link}"`,
 };
 
 completion(book);
